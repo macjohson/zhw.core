@@ -1,4 +1,4 @@
-module zhw.core
+module github.com/macjohson/zhw.core
 
 go 1.21.4
 
